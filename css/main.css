@@ -725,9 +725,12 @@ h5{
 		text-align: center;
 	}
 	.aboutus{
-		height:1200px;
+		height:1320px;
 		
 
+	}
+	.imageofinput{
+		margin-left: 0px;
 	}
 	.awesomi{
 		margin-left: 20PX;
@@ -794,19 +797,23 @@ h5{
 		overflow-x: hidden;
 	}
 	.img_cl1{
-		width: 75%;
-		height: 120px;
+		width: 100%;
+		height: 140px;
+		margin:auto;
 	}
 	.clints{
-		width: 100%;
-		height: 150px;
+		width: 112%;
+		height: 200px;
 	}
 	.happy_client_section{
-		height: 1000px;
+		height: 1200px;
 	}
 	.form_input1{
 		width: 200px;
 		margin-left: 0px;
+	}
+	.image_last{
+		margin-top: -100px;
 	}
 	.requer1{
 		width: 200px;
